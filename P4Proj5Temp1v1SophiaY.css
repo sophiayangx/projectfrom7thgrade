@@ -1,0 +1,18 @@
+#Nav {
+  position: fixed;
+  width: 200px;
+  display: block;
+  float: left;
+}
+
+#Main {
+  margin-left: 210px;
+}
+
+#Nav ul {
+  list-style-type: none;
+}
+
+.height{
+  height: 1000px;
+}
